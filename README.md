@@ -1,6 +1,9 @@
 #### Work in progress 🧙‍♀️
 
+<p align=center> 
 ![Alt Text](https://media1.giphy.com/media/26BoEeFJkz2eZUBcQ/giphy.gif?cid=ecf05e47n0ch6qzasfv25butscg06czj8dqk6776kht3hnee&rid=giphy.gif&ct=g)
+</p>
+
 
 You can use the [editor on GitHub](https://github.com/leticiaplang/leticiaplang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
