@@ -1,7 +1,7 @@
-## Welcome to my universe
+## Welcome to My Universe
 
 <p align=center> 
-  <img src="https://media1.giphy.com/media/26BoEeFJkz2eZUBcQ/giphy.gif?cid=ecf05e47n0ch6qzasfv25butscg06czj8dqk6776kht3hnee&rid=giphy.gif&ct=g" alt="animated" height=300 width=300/>
+  <img src="https://media1.giphy.com/media/26BoEeFJkz2eZUBcQ/giphy.gif?cid=ecf05e47n0ch6qzasfv25butscg06czj8dqk6776kht3hnee&rid=giphy.gif&ct=g" alt="animated" height=400 width=400/>
 </p>
 
 
