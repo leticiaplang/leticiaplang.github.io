@@ -10,10 +10,10 @@ My purpouse here is organize all my publications to facilitate objective access 
 
 -----
 ### Drug Classification   
-    🏷️ Classification algorithm
+    🏷️ data cleaning, data wrangling, insights for business, classification algorithm
     Business problem: how accurately can we prescribe the correct treatment?
     Solution: it was possible get some insights with the exploratory analysis, but for accuracy 
-              the classification algorithm will be a better solution.
+      the classification algorithm will be a better solution.
     Conclusion:
       - the drug A is prescripted on this sample for people younger than 50 years, with high blood pressure 
       and Na to K lower than 15;
@@ -26,7 +26,19 @@ My purpouse here is organize all my publications to facilitate objective access 
       - the drug Y is prescripted on this sample for people with Na to k higher than 15;
       - the baseline dummy classifier(45%) loosed for logistic regression model which predict 
       correctly the treatment 89%
-    Next steps: colect more data and tuning the model
+    Next steps: collect more data and tune the model
    <a href="https://github.com/leticiaplang/drug_classification" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
+---
+### Rent Calculator  
+    🏷️ data cleaning, data wrangling, feature engineering, regression algorithm, tuning model, deploying model
+    Business problem: create a calculator to predict the rent value for client at Florianópolis - Santa Catarina - BR
+    Solution: web scrap the site to get all the informations, clean the data and explore that, define the features 
+      and the target, test regression models, tune and define the better model to deploy it.
+    Conclusion:
+      - the baseline was linear regression and other model tested was decision tree, lasso and SVR. None of the models 
+      get a good performance and the better result was predict 35% correctly. the dataset is small and the data was 
+      collected at summer season, which makes a really high price on the isle.  
+    Next steps: tuning the model and dig deeper on statistics metrics to see if the model construction is possible 
+      or not with this sample.
+   <a href="https://github.com/leticiaplang/rent_calculator" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 ---
