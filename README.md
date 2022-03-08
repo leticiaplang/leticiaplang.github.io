@@ -44,14 +44,14 @@ My purpouse here is organize all my publications to facilitate objective access 
     and explore that, define the features and the target, test regression models, 
     tune and define the better model to deploy it.
     💡Conclusion:
-      - the baseline was linear regression and other model tested was decision tree, 
-      lasso and SVR;
-      - None of the models get a good performance and the better result was predict 
-      35% correctly;
+      - the baseline was linear regression and other model tested was decision 
+      tree, lasso and SVR;
+      - None of the models get a good performance and the better result was 
+      predict 35% correctly;
       - The dataset is small and the data was collected at summer season, which
       makes really high rent prices on the isle.
-    💯 Next steps: tuning the model and dig deeper on statistics metrics to see if 
-    the model construction is possible or not with this sample.
+    💯 Next steps: tuning the model and dig deeper on statistics metrics to see 
+    if the model construction is possible or not with this sample.
       
    <a href="https://github.com/leticiaplang/rent_calculator" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 ---
