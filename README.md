@@ -38,18 +38,18 @@ My purpouse here is organize all my publications to facilitate objective access 
 ### Rent Calculator  
     🏷️ data cleaning, data wrangling, feature engineering, regression algorithm, 
     tuning model, deploying model
-    🔍 Business problem: create a calculator to predict the rent value for client at 
-    Florianópolis - Santa Catarina - BR
-    🧰 Solution: web scrap the site to get all the informations, clean the data and
-    explore that, define the features and the target, test regression models, 
+    🔍 Business problem: create a calculator to predict the rent value for client 
+    at Florianópolis - Santa Catarina - BR
+    🧰 Solution: web scrap the site to get all the informations, clean the data 
+    and explore that, define the features and the target, test regression models, 
     tune and define the better model to deploy it.
     💡Conclusion:
       - the baseline was linear regression and other model tested was decision tree, 
       lasso and SVR;
       - None of the models get a good performance and the better result was predict 
       35% correctly;
-      - The dataset is small and the data was collected at summer season, which makes 
-      really high rent prices on the isle.
+      - The dataset is small and the data was collected at summer season, which
+      makes really high rent prices on the isle.
     💯 Next steps: tuning the model and dig deeper on statistics metrics to see if 
     the model construction is possible or not with this sample.
       
