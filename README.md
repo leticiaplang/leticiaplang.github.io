@@ -31,6 +31,7 @@ My purpouse here is organize all my publications to facilitate objective access 
       - The baseline dummy classifier(45%) loosed for logistic regression 
       model which predict correctly the treatment 89%.
     🔸 Next steps: collect more data and tune the model.
+
 <a href="https://github.com/leticiaplang/drug_classification" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
 
@@ -51,6 +52,7 @@ My purpouse here is organize all my publications to facilitate objective access 
       makes really high rent prices on the isle.
     🔸 Next steps: tuning the model and dig deeper on statistics metrics to see 
     if the model construction is possible or not with this sample.
+
 <a href="https://github.com/leticiaplang/rent_calculator" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    
 ---
