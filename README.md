@@ -60,15 +60,15 @@ My purpouse here is organize all my publications to facilitate objective access 
 ## Articles
 
 ### Web scraping with selenium
-      Here I explore how to web scrap a site with selenium and 
-      how transform the data to data frame and save locally.
+    Here I explore how to web scrap a site with selenium and 
+    how transform the data to data frame and save locally.
 
 <a href="https://github.com/leticiaplang/lpl_posts/blob/master/_notebooks/2021_02_08_web_scraping_p1.ipynb" target="_blank"><img src="https://img.shields.io/badge/pt_BR|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://leticiaplang.github.io/lpl_posts/2022/03/08/_02_08_web_scraping_p1.html" target="_blank"><img src="https://img.shields.io/badge/pt_BR|My_Publications-333333?style=for-the-badge&logoColor=white" target="_blank"></a>
 
 ### Web scraping with Beautiful Soup
-      Here I explore how to web scrap a site with B4S and 
-      how transform the data to data frame and save locally.
+    Here I explore how to web scrap a site with B4S and 
+    how transform the data to data frame and save locally.
 
 <a href="https://github.com/leticiaplang/lpl_posts/blob/master/_notebooks/2021_02_08_web_scraping_p2.ipynb" target="_blank"><img src="https://img.shields.io/badge/pt_BR|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://leticiaplang.github.io/lpl_posts/2022/03/08/_02_08_web_scraping_p2.html" target="_blank"><img src="https://img.shields.io/badge/pt_BR|My_Publications-333333?style=for-the-badge&logoColor=white" target="_blank"></a>
