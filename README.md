@@ -40,7 +40,8 @@ My purpouse here is organize all my publications to facilitate objective access 
     🔸 Next steps: collect more data, tune the model and insert the dosage.
 
 <a href="https://github.com/leticiaplang/drug_classification" target="_blank"><img src="https://img.shields.io/badge/EN_PT_|_Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
- <a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_03_14_drug_classification.html" target="_blank"><img src="https://img.shields.io/badge/EN_|_My_Publications-333333?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
+<a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_03_14_drug_classification.html" target="_blank"><img src="https://img.shields.io/badge/EN_|_My_Publications-333333?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
+<a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_03_14_drug_classification_pt.html" target="_blank"><img src="https://img.shields.io/badge/EN_|_My_Publications-333333?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
 
 ### Rent Calculator  
     ▫️ data cleaning, data wrangling, feature engineering, regression algorithm, 
