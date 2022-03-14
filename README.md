@@ -12,11 +12,18 @@ My purpouse here is organize all my publications to facilitate objective access 
 ### Drug Classification   
     ▫️ data cleaning, data wrangling, insights for business, classification 
         algorithm.
-    🔸 Business problem: how accurately can we prescribe the correct 
-        treatment?
-    🔸 Solution: it was possible get some insights with the exploratory 
-        analysis, but for accuracy the classification algorithm will 
-        be a better solution.
+    🔸 Business problem: One of the biggest pain at healthcare services is
+        the medication and prescription errors. According Rayhan A. and 
+        collegue's article the ordering/prescribing errors include 50% of 
+        the total medications errors. It's harms not only the patient, 
+        familly and professionals, as the company, once it's esteemed an 
+        bigger cost of $40 billion each year to look after these patients. 
+        This algorithm is the first step to construct an MVP looking for 
+        help at secure medication presciption. After that we are going 
+        analyse dosage data and a bigger sample for better results.
+    🔸 Solution: analyse the possibility of get the necessary insights
+        to predict the prescription, than, create the first version 
+        of classification model.
     🔸 Conclusion:
       - The drug A is prescripted on this sample for people younger 
       than 50 years, with high blood pressure and Na to K lower than 15;
@@ -30,7 +37,7 @@ My purpouse here is organize all my publications to facilitate objective access 
       higher than 15;
       - The baseline dummy classifier(45%) loosed for logistic regression 
       model which predict correctly the treatment 89%.
-    🔸 Next steps: collect more data and tune the model.
+    🔸 Next steps: collect more data, tune the model and insert the dosage.
 
 <a href="https://github.com/leticiaplang/drug_classification" target="_blank"><img src="https://img.shields.io/badge/EN_ptBR|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
