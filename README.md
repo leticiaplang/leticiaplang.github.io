@@ -32,8 +32,7 @@ My purpouse here is organize all my publications to facilitate objective access 
       model which predict correctly the treatment 89%.
     🔸 Next steps: collect more data and tune the model.
 
-<a href="https://github.com/leticiaplang/drug_classification" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
- 
+<a href="https://github.com/leticiaplang/drug_classification" target="_blank"><img src="https://img.shields.io/badge/EN_ptBR|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
 ### Rent Calculator  
     ▫️ data cleaning, data wrangling, feature engineering, regression algorithm, 
