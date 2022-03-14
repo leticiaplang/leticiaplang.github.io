@@ -9,7 +9,24 @@
 <h4 align = 'center'> Notebooks and publications EN(english), PT(brazilian portuguese) or both languages.
 
 ----
+## Articles
 
+### Web scraping with selenium
+    Here I explore how to web scrap a site with selenium and 
+    how transform the data to data frame and save locally.
+
+<a href="https://github.com/leticiaplang/lpl_posts/blob/master/_notebooks/2021_02_08_webscrap_selenium.ipynb" target="_blank"><img src="https://img.shields.io/badge/pt_|_Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_02_08_webscrap_selenium.html" target="_blank"><img src="https://img.shields.io/badge/pt_|_My_Publications-333333?style=for-the-badge&logoColor=white" target="_blank"></a>
+
+### Web scraping with Beautiful Soup
+    Here I explore how to web scrap a site with B4S and 
+    how transform the data to data frame and save locally.
+
+<a href="https://github.com/leticiaplang/lpl_posts/blob/master/_notebooks/2021_02_08_webscrap_b4s.ipynb" target="_blank"><img src="https://img.shields.io/badge/pt_|_Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_02_08_webscrap_selenium.html" target="_blank"><img src="https://img.shields.io/badge/pt_|_My_Publications-333333?style=for-the-badge&logoColor=white" target="_blank"></a>
+
+---
+  
 ## Projects
 
 ### Drug Classification   
@@ -67,20 +84,4 @@
 <a href="https://github.com/leticiaplang/rent_calculator" target="_blank"><img src="https://img.shields.io/badge/EN|Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
 ---
-
-## Articles
-
-### Web scraping with selenium
-    Here I explore how to web scrap a site with selenium and 
-    how transform the data to data frame and save locally.
-
-<a href="https://github.com/leticiaplang/lpl_posts/blob/master/_notebooks/2021_02_08_webscrap_selenium.ipynb" target="_blank"><img src="https://img.shields.io/badge/pt_|_Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_02_08_webscrap_selenium.html" target="_blank"><img src="https://img.shields.io/badge/pt_|_My_Publications-333333?style=for-the-badge&logoColor=white" target="_blank"></a>
-
-### Web scraping with Beautiful Soup
-    Here I explore how to web scrap a site with B4S and 
-    how transform the data to data frame and save locally.
-
-<a href="https://github.com/leticiaplang/lpl_posts/blob/master/_notebooks/2021_02_08_webscrap_b4s.ipynb" target="_blank"><img src="https://img.shields.io/badge/pt_|_Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://leticiaplang.github.io/lpl_posts/fastpages/jupyter/2022/03/13/_02_08_webscrap_selenium.html" target="_blank"><img src="https://img.shields.io/badge/pt_|_My_Publications-333333?style=for-the-badge&logoColor=white" target="_blank"></a>
 
