@@ -9,6 +9,7 @@
 <h4 align = 'center'> Notebooks and publications EN(english), PT(brazilian portuguese) or both languages.
 
 ----
+
   
 ## Articles
 
