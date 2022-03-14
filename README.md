@@ -5,9 +5,9 @@
 </p>
 
 
-My purpouse here is organize all my publications to facilitate objective access 😊
+<h4 align = 'center'>My purpouse here is organize all my publications to facilitate objective access 😊 
 
-Notebooks and publications EN(english), PT(brazilian portuguese) or both languages.
+<h4 align = 'center'> Notebooks and publications EN(english), PT(brazilian portuguese) or both languages.
 
 ----
 
